@@ -1,0 +1,11 @@
+feature,is_abnormal
+P_Wave_Peak,0.0319693094629156
+T_Wave_Peak,0.01014832162373146
+R_Wave_Peak,0.009819121447028423
+QT_Interval,0.006739679865206402
+HRV_SDNN,0.0006013229104028864
+PR_Interval,0.0
+QRS_Complex,0.0
+QTc_Interval,0.0
+QTc_variability,0.0
+RR_Interval,0.0
