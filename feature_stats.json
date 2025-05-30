@@ -1,0 +1,149 @@
+{
+    "RR_Interval": {
+        "mean": 1.216149660012221e-17,
+        "std": 1.0000273863807583,
+        "threshold": 3.000082159142275,
+        "abnormal_count": 136,
+        "abnormal_ratio": 0.74487895716946
+    },
+    "PR_Interval": {
+        "mean": 2.1083170505971862e-16,
+        "std": 1.0000273863807352,
+        "threshold": 3.0000821591422056,
+        "abnormal_count": 198,
+        "abnormal_ratio": 1.0844561288202432
+    },
+    "QRS_Complex": {
+        "mean": -8.7173607629676e-17,
+        "std": 1.0000273863807438,
+        "threshold": 3.0000821591422318,
+        "abnormal_count": 315,
+        "abnormal_ratio": 1.725271114032205
+    },
+    "QT_Interval": {
+        "mean": -1.9779458070438763e-16,
+        "std": 1.000027386380759,
+        "threshold": 3.000082159142277,
+        "abnormal_count": 33,
+        "abnormal_ratio": 0.18074268813670719
+    },
+    "QTc_Interval": {
+        "mean": -1.7940639784500284e-16,
+        "std": 1.0000273863807567,
+        "threshold": 3.00008215914227,
+        "abnormal_count": 29,
+        "abnormal_ratio": 0.158834483514076
+    },
+    "P_Wave_Peak": {
+        "mean": 9.124041209275687e-16,
+        "std": 1.0000273863807545,
+        "threshold": 3.0000821591422637,
+        "abnormal_count": 212,
+        "abnormal_ratio": 1.1611348449994523
+    },
+    "R_Wave_Peak": {
+        "mean": -1.778497262801872e-15,
+        "std": 1.0000273863807623,
+        "threshold": 3.000082159142287,
+        "abnormal_count": 230,
+        "abnormal_ratio": 1.2597217658012927
+    },
+    "T_Wave_Peak": {
+        "mean": 1.0180632033894305e-15,
+        "std": 1.0000273863807545,
+        "threshold": 3.0000821591422637,
+        "abnormal_count": 316,
+        "abnormal_ratio": 1.7307481651878627
+    },
+    "HRV_SDNN": {
+        "mean": 1.2414455729404752e-16,
+        "std": 1.0000273863807567,
+        "threshold": 3.00008215914227,
+        "abnormal_count": 324,
+        "abnormal_ratio": 1.7745645744331253
+    },
+    "QTc_variability": {
+        "mean": -5.296574999285225e-16,
+        "std": 1.0000273863807603,
+        "threshold": 3.0000821591422806,
+        "abnormal_count": 28,
+        "abnormal_ratio": 0.15335743235841823
+    },
+    "anchor_age": {
+        "mean": 65.36526454157082,
+        "std": 15.06281429097766,
+        "threshold": 45.18844287293298,
+        "abnormal_count": 51,
+        "abnormal_ratio": 0.27932960893854747
+    },
+    "gender": {
+        "mean": 0.4631942162339796,
+        "std": 0.498657150213853,
+        "threshold": 1.495971450641559,
+        "abnormal_count": 0,
+        "abnormal_ratio": 0.0
+    },
+    "subject_id": {
+        "mean": 15019574.620111732,
+        "std": 2888931.685694604,
+        "threshold": 8666795.057083812,
+        "abnormal_count": 0,
+        "abnormal_ratio": 0.0
+    },
+    "ecg_sequence": {
+        "mean": 1.0,
+        "std": 0.0,
+        "threshold": 0.0,
+        "abnormal_count": 0,
+        "abnormal_ratio": 0.0
+    },
+    "heart_rate": {
+        "mean": -4.2263632984744704e-16,
+        "std": 1.0000273863807572,
+        "threshold": 3.0000821591422717,
+        "abnormal_count": 122,
+        "abnormal_ratio": 0.6682002409902509
+    },
+    "QTc_RR_ratio": {
+        "mean": 3.5764529201639396e-16,
+        "std": 1.000027386380758,
+        "threshold": 3.0000821591422744,
+        "abnormal_count": 86,
+        "abnormal_ratio": 0.47102639938657026
+    },
+    "QT_RR_ratio": {
+        "mean": 5.489213105431161e-16,
+        "std": 1.000027386380759,
+        "threshold": 3.000082159142277,
+        "abnormal_count": 56,
+        "abnormal_ratio": 0.30671486471683646
+    },
+    "P_R_ratio": {
+        "mean": -1.088074507017014e-14,
+        "std": 1.000027386380758,
+        "threshold": 3.0000821591422744,
+        "abnormal_count": 293,
+        "abnormal_ratio": 1.6047759886077335
+    },
+    "T_R_ratio": {
+        "mean": 4.474652413062565e-15,
+        "std": 1.000027386380759,
+        "threshold": 3.000082159142277,
+        "abnormal_count": 326,
+        "abnormal_ratio": 1.7855186767444409
+    },
+    "HRV_RMSSD": {
+        "mean": 2.44105559757653e-16,
+        "std": 1.0000273863807627,
+        "threshold": 3.000082159142288,
+        "abnormal_count": 349,
+        "abnormal_ratio": 1.91149085332457
+    },
+    "HRV_pNN50": {
+        "mean": -2.401165888728129e-16,
+        "std": 1.0000273863807627,
+        "threshold": 3.000082159142288,
+        "abnormal_count": 160,
+        "abnormal_ratio": 0.876328184905247
+    }
+}
